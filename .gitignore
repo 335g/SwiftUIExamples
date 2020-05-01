@@ -1,0 +1,9 @@
+# macOS
+.DSStore
+
+# Xcode
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+default.profraw
+
