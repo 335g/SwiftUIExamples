@@ -7,4 +7,7 @@
    <FileRef
       location = "group:02/02.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:02/../03/03.xcodeproj">
+   </FileRef>
 </Workspace>
