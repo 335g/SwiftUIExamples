@@ -2,27 +2,27 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:08/08.xcodeproj">
+      location = "group:008_view_animation/008_view_animation.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:07/07.xcodeproj">
+      location = "group:007_gesture/007_gesture.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:06/06.xcodeproj">
+      location = "group:006_list/006_list.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:05/05.xcodeproj">
+      location = "group:005_for_each/005_for_each.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:04/04.xcodeproj">
+      location = "group:004_slimple_list/004_simple_list.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:02/../03/03.xcodeproj">
+      location = "group:003_like_a_twoway_binding/003_like_a_twoway_binding.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:02/02.xcodeproj">
+      location = "group:002_combine/002_combine.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:01/01.xcodeproj">
+      location = "group:001_binding_button/001_binding_button.xcodeproj">
    </FileRef>
 </Workspace>
